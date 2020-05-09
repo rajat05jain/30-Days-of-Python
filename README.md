@@ -172,8 +172,10 @@ If you want to try out the examples in this tutorial without installing Python o
 These cloud-based Python interpreters may not be able to execute some of the more complex examples in this tutorial, but they will be adequate for running most of the simpler ones and may be a nice way to get you started. More information on using these sites is presented in the next section.
 
 
-## <Center>Day 2 - Python Basics</center> ##
-<br>
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%202%20-%20Python%20Basics.png)
+
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/screenshots%20-%20Day%202/Day%202%20announcement.png)
+
 <b>Here in this course we will be using Jupyer Notebook.</b>
 
 #### About Jupyter Notebook ####
@@ -217,5 +219,26 @@ now, please acces these file for <b>Day 2</b>
 * ![Comments and identation](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Comments%20indentation.ipynb)<br>
 * ![Operators in python](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Operators.ipynb)<br>
 * ![Variables](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20Variables.ipynb)<br>
-* ![standard input and Output](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20standard%20input%20and%20output.ipynb)
-    
+* ![standard input and Output](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%202/Day%202%20-%20standard%20input%20and%20output.ipynb)<br>
+
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%203-%20Python%20Data%20Structures.png)
+
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy%20Day%202%20announcement%20poster.png)
+
+* ![Lists](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Lists.ipynb)<br>
+* ![Tuples Part 1](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Tuples(Part%201).ipynb)<br>
+* ![Tuples Part 2](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Tuples(part%20-%202).ipynb)<br>
+* ![Sets](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Sets.ipynb)<br>
+* ![Dictionaries](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%203/Day%203%20-%20Dictionaries.ipynb)<br>
+
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Headers/Day%204-%20Python%20Conditionals(1).png)
+
+![alt_text](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/DailyPy%20Day%204%20announcement%20poster(1).png)
+
+* ![if-else](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/if-elif-else.ipynb)<br>
+* ![While Loop](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/While-loop.ipynb)<br>
+* ![For Loops](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/for_loop.ipynb)<br>
+* ![Break and Continue](https://github.com/harshitahluwalia7895/30-Days-of-Python/blob/master/Day%204/break_continue.ipynb)<br>
+
+
+### Stay Tuned for Day 5 ###
